@@ -1,5 +1,8 @@
 # Spring Boot Ecommerce
 
+<p><span style="color: rgb(0, 0, 0); font-family: Ubuntu; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Technology:&nbsp;</span></p>
+<p><span style="color: rgb(0, 0, 0); font-family: Ubuntu; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Java, TypeScript, Angular, Spring Boot, MySQL, Postman, Okta, REST API, Bootstrap, Lombok</span> </p>
+
 <p>SpringBoot Backend :&nbsp;<a href="https://github.com/debrupofficial365/spring-boot-ecommerce-backend">https://github.com/debrupofficial365/spring-boot-ecommerce-backend</a></p>
 <p>Angular Frontend : <a href="https://github.com/debrupofficial365/angular-ecommerce-website-frontend">https://github.com/debrupofficial365/angular-ecommerce-website-frontend</a></p>
 <p>Database scripts :&nbsp;<a href="https://github.com/debrupofficial365/db-scripts-ecommerce">https://github.com/debrupofficial365/db-scripts-ecommerce</a></p>
