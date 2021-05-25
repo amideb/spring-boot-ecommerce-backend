@@ -1,4 +1,8 @@
-# spring-boot-ecommerce
+# Spring Boot Ecommerce
+
+<p>SpringBoot Backend :&nbsp;<a href="https://github.com/debrupofficial365/spring-boot-ecommerce-backend">https://github.com/debrupofficial365/spring-boot-ecommerce-backend</a></p>
+<p>Angular Frontend : <a href="https://github.com/debrupofficial365/angular-ecommerce-website-frontend">https://github.com/debrupofficial365/angular-ecommerce-website-frontend</a></p>
+<p>Database scripts :&nbsp;<a href="https://github.com/debrupofficial365/db-scripts-ecommerce">https://github.com/debrupofficial365/db-scripts-ecommerce</a></p>
 
 ---> A website to buy different categorized items, with signup login logout feature, you can go inside the product to check the details, you can add products in the card, and inside the card section, you can increase, decrease the product quantity, or you can remove them from the card, and you can checkout with your valid details to buy products. You can search products by keywords and also have a VIP member section.
 
